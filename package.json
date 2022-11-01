@@ -1,0 +1,16 @@
+{
+  "name": "3WKD2dgEXcdoGY2",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "ผลบอลโลก ข่าวฟุตบอล",
+  "keywords": [
+    "บอลโลก โซนยุโรป ข่าวฟุตบอล",
+    "แชมป์บอลโลก แทงบอลโลก",
+    "พนันบอลออนไลน์ ผลบอลโลก"
+  ],
+  "repository": "https://github.com/kirati1996/krF4kE40wV.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
